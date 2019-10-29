@@ -1,0 +1,16 @@
+{
+  "title": "My Blog",
+  "url": "https://myurl.com/",
+  "description": "Random snippets of existence.",
+  "feed": {
+    "subtitle": "Writings and musings",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://myurl.com/feed/feed.xml",
+    "id": "https://myurl.com/"
+  },
+  "author": {
+    "name": "Billy Fung",
+    "email": "billy@billyfung.com"
+  }
+}
