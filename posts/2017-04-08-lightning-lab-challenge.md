@@ -2,7 +2,7 @@
 title: 2017 Lightning Lab Electric Innovation Challenge
 subtitle: 
 date: '2017-04-08'
-slug: lightning-lab
+layout: layouts/post.njk
 ---
 
 I won't actually talk about our idea in this post, that would be silly.

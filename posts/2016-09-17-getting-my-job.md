@@ -2,7 +2,7 @@
 title: How I got my job
 subtitle: 
 date: '2016-09-17'
-slug: my-job
+layout: layouts/post.njk
 ---
 
 # Interviewing for software jobs suck

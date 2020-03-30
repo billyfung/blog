@@ -2,7 +2,7 @@
 title: GAMS - General Algebraic Modeling System
 subtitle: 
 date: '2017-06-29'
-slug: gams-intro
+layout: layouts/post.njk
 ---
 
 ## Sometimes you have to use proprietary software

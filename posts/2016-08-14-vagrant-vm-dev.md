@@ -2,7 +2,7 @@
 title: Vagrant, VM and Development
 subtitle: 
 date: '2016-08-14'
-slug: vagrant-vm-dev
+layout: layouts/post.njk
 ---
 
 # Creating production environment locally

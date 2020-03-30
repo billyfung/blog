@@ -2,7 +2,7 @@
 title: Videogrep
 subtitle: Subtitle fun
 date: '2015-10-09'
-slug: videogrep
+layout: layouts/post.njk
 ---
 # Videogrep
 

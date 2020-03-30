@@ -2,7 +2,7 @@
 title: Differences between Flask and Django 
 subtitle: 1
 date: '2017-08-24'
-slug: flask-django-1
+layout: layouts/post.njk
 ---
 # Differences between Flask and Django - Part 1
 

@@ -2,7 +2,7 @@
 title: Work Life Balance
 subtitle: 
 date: '2016-06-30'
-slug: work-life-balance
+layout: layouts/post.njk
 ---
 
 ## Tackling the big fish

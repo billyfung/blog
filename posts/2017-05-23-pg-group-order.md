@@ -2,7 +2,7 @@
 title: Postgres Grouping and Ordering
 subtitle: 
 date: '2017-05-23'
-slug: pg-group-order
+layout: layouts/post.njk
 ---
 
 ```

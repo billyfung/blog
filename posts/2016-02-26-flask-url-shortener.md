@@ -2,7 +2,7 @@
 title: Flask URL Shortener
 subtitle: 
 date: '2016-02-26'
-slug: flask-url-shorten
+layout: layouts/post.njk
 ---
 
 # URL shortener with Flask and Redis

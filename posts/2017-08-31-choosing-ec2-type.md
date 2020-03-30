@@ -2,7 +2,7 @@
 title: Choosing an EC2 type
 subtitle: AWS fun
 date: '2017-08-31'
-slug: ec2-options
+layout: layouts/post.njk
 ---
 
 # So many options, which one is best?

@@ -3,6 +3,7 @@ title: Gravity Gradient Stabilised Satellite
 subtitle: Processing simulation
 date: '2015-10-06'
 slug: satellite-simulation
+layout: layouts/post.njk
 ---
 
 # Physics Simulation using Java

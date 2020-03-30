@@ -2,7 +2,7 @@
 title: Shiny interactive visualisation
 subtitle: 
 date: '2017-03-06'
-slug: shiny-reactivity
+layout: layouts/post.njk
 ---
 
 ![Site][2]

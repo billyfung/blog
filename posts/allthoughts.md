@@ -1,4 +1,12 @@
-[#][1] Mar 11, 2017
+---
+title: From 3 years ago
+description: Thoughts and musings from the past
+date: 2020-03-30
+tags:
+layout: layouts/post.njk
+---
+
+Mar 11, 2017
 
 ## Finding friends as an adult
 
@@ -42,16 +50,7 @@ everything feel more familiar, when you can randomly see friends around. When
 everybody is a friendly face, the pieces of life feel like they're starting to
 fit into place.
 
-Please enable JavaScript to view the [comments powered by Disqus.][2]
-[comments powered by Disqus][3]
-
-   [1]: http://billyfung.com
-
-   [2]: http://disqus.com/?ref_noscript
-
-   [3]: http://disqus.com
-
-[#][1] Apr 21, 2017
+ Apr 21, 2017
 
 ## So it's been 3 months
 
@@ -123,16 +122,7 @@ trip exploring something new. And I don't have an answer on how to balance
 this dilemma which I face quite often. But this weekend I'll be spending my
 time riding bikes.
 
-Please enable JavaScript to view the [comments powered by Disqus.][2]
-[comments powered by Disqus][3]
-
-   [1]: http://billyfung.com
-
-   [2]: http://disqus.com/?ref_noscript
-
-   [3]: http://disqus.com
-
-[#][1] May 22, 2017
+May 22, 2017
 
 I haven't talked about it here yet, but since it's been awhile since I've
 written anything new, be it technical or just rambling, I'll say that my
@@ -150,18 +140,7 @@ just overall it's a journey.
 
 Feedback is always greatly appreciated.
 
-Please enable JavaScript to view the [comments powered by Disqus.][3]
-[comments powered by Disqus][4]
-
-   [1]: http://billyfung.com
-
-   [2]: https://soundcloud.com/user-704296799
-
-   [3]: http://disqus.com/?ref_noscript
-
-   [4]: http://disqus.com
-
-[#][1] Feb 4, 2017
+Feb 4, 2017
 
 # YVR-NRT-ICN-PVG-AKL
 
@@ -173,7 +152,6 @@ so I wanted to visit my friends in Shanghai and Seoul. Not sure why, but I
 decided it would be a grand adventure flying with 1 overweight suitcase and 1
 bike box, what could go wrong?
 
-![narita][2]
 
 Flying with Japan Airlines from Vancouver to Narita, I wasn't charged for my
 bicycle box, using it as my second piece of luggage. My suitcase was
@@ -231,18 +209,7 @@ cables in a bad way that lead to some creasing. 4/4
 In conclusion, I probably wouldn't suggest doing this kind of flying if you're
 moving your life. But being able to see all my friends is priceless.
 
-Please enable JavaScript to view the [comments powered by Disqus.][3]
-[comments powered by Disqus][4]
-
-   [1]: http://billyfung.com
-
-   [2]: https://media.giphy.com/media/l3q2u6GPHMTM3pjLG/source.gif
-
-   [3]: http://disqus.com/?ref_noscript
-
-   [4]: http://disqus.com
-
-[#][1] Oct 27, 2017
+Oct 27, 2017
 
 I strongly believe that in order to do my best work, I need to take time and
 recharge my creative juices once in awhile. Weekends are a small form of this,
@@ -264,14 +231,6 @@ Maybe those big problems you've been worrying about aren't as big of a
 problem, or maybe you'll figure out a way to mitigate a big problem. Stepping
 back and abstracting your life is always a good routine.
 
-Please enable JavaScript to view the [comments powered by Disqus.][2]
-[comments powered by Disqus][3]
-
-   [1]: http://billyfung.com
-
-   [2]: http://disqus.com/?ref_noscript
-
-   [3]: http://disqus.com
 
 [#][1] Jul 17, 2017
 
@@ -300,14 +259,6 @@ knows what the priority is.
 But this breaks down when there aren't set deadlines and set priorites, which
 has me always wondering how much time I should spend on a task.
 
-Please enable JavaScript to view the [comments powered by Disqus.][2]
-[comments powered by Disqus][3]
-
-   [1]: http://billyfung.com
-
-   [2]: http://disqus.com/?ref_noscript
-
-   [3]: http://disqus.com
 
 [#][1] Jul 27, 2017
 
@@ -337,16 +288,6 @@ Things I've done in the past 6 months:
 
 That's a quick brain dump for now.
 
-Please enable JavaScript to view the [comments powered by Disqus.][3]
-[comments powered by Disqus][4]
-
-   [1]: http://billyfung.com
-
-   [2]: http://www.lightninglab.co.nz/innovation-challenge-winners-announced/
-
-   [3]: http://disqus.com/?ref_noscript
-
-   [4]: http://disqus.com
 
 [#][1] Sep 4, 2017
 
@@ -406,14 +347,6 @@ prefer one result or the other.
 
 I think this post could've been stronger, but I got distracted by work…
 
-Please enable JavaScript to view the [comments powered by Disqus.][2]
-[comments powered by Disqus][3]
-
-   [1]: http://billyfung.com
-
-   [2]: http://disqus.com/?ref_noscript
-
-   [3]: http://disqus.com
 
 [#][1] Jan 2, 2017
 
@@ -422,8 +355,6 @@ Please enable JavaScript to view the [comments powered by Disqus.][2]
 ![Antigua][2] ![volcans][3] ![tortilla][4] ![flores][5] ![sale][6] ![garrett
 sunset][7] ![sunrise][8]
 
-Please enable JavaScript to view the [comments powered by Disqus.][9]
-[comments powered by Disqus][10]
 
    [1]: http://billyfung.com
 
@@ -441,9 +372,6 @@ Please enable JavaScript to view the [comments powered by Disqus.][9]
 
    [8]: https://c2.staticflickr.com/6/5344/31358380835_6d426d5728.jpg
 
-   [9]: http://disqus.com/?ref_noscript
-
-   [10]: http://disqus.com
 
 [#][1] Jan 27, 2017
 
@@ -485,15 +413,6 @@ things before, and until now I'm still not really sure what my plans for
 living in Auckland are. I think I'm almost too carefree about it, most of my
 friends are worrying way more than me and I feel bad about making them worry.
 But I'm confident everything will work out, and I'll be alright.
-
-Please enable JavaScript to view the [comments powered by Disqus.][2]
-[comments powered by Disqus][3]
-
-   [1]: http://billyfung.com
-
-   [2]: http://disqus.com/?ref_noscript
-
-   [3]: http://disqus.com
 
 [#][1] Jan 4, 2017
 
@@ -617,13 +536,4 @@ head to New Zealand on a working holiday visa. Before I get there I'll make a
 stop in Seoul to visit a friend, and a layover in Shanghai to hang out with a
 friend I haven't seen in awhile. So 2017 should have many new adventures and
 experiences.
-
-Please enable JavaScript to view the [comments powered by Disqus.][2]
-[comments powered by Disqus][3]
-
-   [1]: http://billyfung.com
-
-   [2]: http://disqus.com/?ref_noscript
-
-   [3]: http://disqus.com
 

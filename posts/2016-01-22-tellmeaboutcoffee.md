@@ -2,7 +2,7 @@
 title: Tell Me About Coffee
 subtitle:
 date: '2016-01-22'
-slug: tellmeaboutcoffee
+layout: layouts/post.njk
 ---
 
 [![Site][2]][3]

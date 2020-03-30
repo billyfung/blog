@@ -2,7 +2,7 @@
 title: Multiple Blogs with Middleman
 subtitle: 
 date: '2017-01-03'
-slug: middleman-blogs
+layout: layouts/post.njk
 ---
 
 ## Changing things up for 2017

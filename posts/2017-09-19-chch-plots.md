@@ -2,7 +2,7 @@
 title: Telling a story with data
 subtitle: Christchurch
 date: '2017-09-19'
-slug: christchurch-data
+layout: layouts/post.njk
 ---
 
 ## Small data big charts

@@ -2,7 +2,7 @@
 title: Slow API SQL Query 
 subtitle: time it
 date: '2017-04-29'
-slug: slow-sql-query
+layout: layouts/post.njk
 ---
 
 ## Situation

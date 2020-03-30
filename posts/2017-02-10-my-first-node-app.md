@@ -2,7 +2,7 @@
 title: My First Node App
 subtitle: Github OAuth2
 date: '2016-02-10'
-slug: first-node-app
+layout: layouts/post.njk
 ---
 
 As a technical exercise I learned Node.js last week, and it was a pretty

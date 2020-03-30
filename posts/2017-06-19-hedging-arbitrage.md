@@ -2,7 +2,7 @@
 title: Hedging and Arbitrage
 subtitle: 
 date: '2017-06-19'
-slug: hedging-arbitrage
+layout: layouts/post.njk
 ---
 
 ## Making a win-win situation

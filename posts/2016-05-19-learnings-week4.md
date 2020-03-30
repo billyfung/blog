@@ -2,7 +2,7 @@
 title: Learnings of the Week 
 subtitle: 4
 date: '2016-05-19'
-slug: learning-4
+layout: layouts/post.njk
 ---
 
 I will admit that I missed my Sunday blog posting routine, it was a good 4

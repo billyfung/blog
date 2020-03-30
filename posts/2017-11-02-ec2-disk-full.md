@@ -3,6 +3,7 @@ title: EC2 Disk Full
 subtitle: But not really
 date: '2017-11-02'
 slug: ec2-disk-full
+layout: layouts/post.njk
 ---
 
 I was deploying one of our applications this week but ran into an error where

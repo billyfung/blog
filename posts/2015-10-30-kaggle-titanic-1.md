@@ -10,7 +10,7 @@ slug: kaggle-titanic-1
 After taking the online machine learning course with Andrew Ng on Coursera, I
 decided that after the course it would be best to do some more problems, and
 Kaggle is the idea place for it. One of the recommended beginner competitions
-is the [Titanic][2] one, where the data comes highly structured already in a
+is the Titanic one, where the data comes highly structured already in a
 nice format to work with. The goal is to predict who will survive and who
 won't based on the given information that includes age, sex, cabin location,
 and more categories.
@@ -23,13 +23,11 @@ R, instead of my usual Matlab or Python, with a logistic regression model.
 Looking at the training data, the first thing I checked was for missing data,
 or NA values.
 
-![missingness][3]
-
 So with all those missing Age values, it would be best to fill them in. My
 first attempt involved using the `mice` library for R, which stands for
 multivariate imputation by chained equations.
 
-```R
+```
     library(mice)
     imp.train <- mice(train, m=4)
     train.complete <- complete(imp.train)
@@ -51,7 +49,7 @@ used that package to fill in my missing values. The package uses
 parallelization of cores to make computation much faster, and it seems like a
 more robust option compared to mice.
 
-```R
+```
     install.packages("Amelia")
     library(Amelia)
     #noms we care, ords we might care, idvars we dont care
@@ -79,7 +77,7 @@ regression on Age, Sex, and PClass, my first Kaggle score placed me somewhere
 around 3000th place in the competition. Out of 3500. Based on the markers that
 Kaggle placed, my model was better than predicting all deaths.
 
-```R
+```
     model <- glm(Survived ~ Age + Sex + Pclass, family = binomial, data=train)
     glmPredict <- predict(model, newdata=test, type = "response")
 ```
@@ -103,6 +101,3 @@ on the cross validation set before using it on the test set. ROC checking!
 All these things for next time, and maybe even implementing a different
 classification method (trees?).
 
-[2]: https://www.kaggle.com/c/titanic
-
-[3]: /figures/missingtraining.png

@@ -2,7 +2,7 @@
 title: Learnings of the Week 
 subtitle: 1
 date: '2016-04-18'
-slug: learning-1
+layout: layouts/post.njk
 ---
 
 # First one

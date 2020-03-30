@@ -2,7 +2,7 @@
 title: Learnings of the Week 
 subtitle: 2
 date: '2016-04-24'
-slug: learning-2
+layout: layouts/post.njk
 ---
 
 # Week 2

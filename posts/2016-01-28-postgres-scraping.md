@@ -2,7 +2,7 @@
 title: Web Scraping and PostgreSQL
 subtitle:
 date: '2016-01-28'
-slug: postgres-scraping
+layout: layouts/post.njk
 ---
 
 # PostgreSQL and Python scraping

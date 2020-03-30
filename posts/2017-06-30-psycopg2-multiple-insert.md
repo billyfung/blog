@@ -2,7 +2,7 @@
 title: Improving Multiple Inserts with Psycopg2
 subtitle: execute_values
 date: '2017-06-30'
-slug: psycopg2-multiple-insert
+layout: layouts/post.njk
 ---
 
 ## You don't know till you know

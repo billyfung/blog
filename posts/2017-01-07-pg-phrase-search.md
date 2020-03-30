@@ -2,7 +2,7 @@
 title: Postgres Phrase Search
 subtitle: tie fighter
 date: '2017-01-07'
-slug: pg-phrase-search
+layout: layouts/post.njk
 ---
 
 ## Tie fighter operator

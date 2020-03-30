@@ -2,7 +2,7 @@
 title: Revisiting Docker and Docker Hub
 subtitle: 
 date: '2017-08-30'
-slug: docker-revisit
+layout: layouts/post.njk
 ---
 
 ## It began in 2016

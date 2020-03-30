@@ -2,7 +2,7 @@
 title: SQLAlchemy and Flask-admin
 subtitle: 
 date: '2016-08-08'
-slug: sqlalchemy-flask-admin
+layout: layouts/post.njk
 ---
 
 ## Using SQLAlchemy and Flask-admin

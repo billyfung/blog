@@ -2,7 +2,7 @@
 title: Weird Cloud Scraping Issue
 subtitle: 
 date: '2017-07-25'
-slug: cloud-scrape-bug
+layout: layouts/post.njk
 ---
 # Why doesn't it work properly in the cloud?
 

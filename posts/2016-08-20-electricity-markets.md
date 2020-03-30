@@ -2,7 +2,7 @@
 title: Electricity Markets
 subtitle: 
 date: '2016-08-20'
-slug: electricity-markets
+layout: layouts/post.njk
 ---
 
 # Market basics

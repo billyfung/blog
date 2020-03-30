@@ -2,7 +2,7 @@
 title: Web Scraping with Python
 subtitle: 
 date: '2015-12-27'
-slug: python-web-scraping
+layout: layouts/post.njk
 ---
 
 # The options

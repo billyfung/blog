@@ -2,7 +2,7 @@
 title: VHDL and style
 subtitle: Grammar is important
 date: '2015-10-06'
-slug: vhdl-style
+layout: layouts/post.njk
 ---
 
 # VHSIC Hardware Description Language (not a programming language)

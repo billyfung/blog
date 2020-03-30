@@ -2,7 +2,7 @@
 title: What Every Computer Science Major Should Know
 subtitle: 
 date: '2016-06-12'
-slug: cs-should-know
+layout: layouts/post.njk
 ---
 
 So I'm not a computer science major, but I figured it would be enjoyable to go

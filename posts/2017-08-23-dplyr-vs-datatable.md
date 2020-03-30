@@ -2,7 +2,7 @@
 title: Hadleyverse vs data.table
 subtitle: 
 date: '2017-08-23'
-slug: datatable-dplyr
+layout: layouts/post.njk
 ---
 
 # Is the Hadleyverse the only option?

@@ -2,7 +2,7 @@
 title: Feature Extraction from dates
 subtitle: Time is fun
 date: '2017-06-14'
-slug: feature-extraction
+layout: layouts/post.njk
 ---
 
 ## Making something from nothing
@@ -18,7 +18,6 @@ Something I've been dealing with recent is a dataset where there are only 3
 columns of data: `the date, numeric_A, numeric_B`. The plot of A vs B looks
 something like:
 
-![2017/06/Rplot.png][1]
 
 So essentially I'm given time series data, with data that looks like it could
 be linearly correlated. But how do we figure out more features, to even being
@@ -31,7 +30,7 @@ you can extract a feature of what season the date is. This can simply be
 looking at the month and estimating what the season it is, or you can put in
 specific dates for each year and then bin them more accurately.
 
-```R
+```
 getSeason <- function(dates) {
     d <- month(dates)
 
@@ -46,4 +45,3 @@ overview is to look at the year, month, and day components of the date and see
 if you can sort them into bins. Then accordingly you should have a couple more
 features that you can work with, and maybe combine to find some more.
 
-[1]: /figures/Rplot.png

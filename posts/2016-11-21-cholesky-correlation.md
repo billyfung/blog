@@ -2,7 +2,7 @@
 title: Cholesky decomposition
 subtitle: Correlation
 date: '2016-11-21'
-slug: cholesky-corr
+layout: layouts/post.njk
 ---
 
 ## Linear Algebra and probability distributions

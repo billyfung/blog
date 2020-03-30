@@ -2,7 +2,7 @@
 title: Mentoring and Pair Programming
 subtitle: Time is fun
 date: '2017-08-17'
-slug: mentoring-pairing
+layout: layouts/post.njk
 ---
 
 # You're never too smart for dumb questions

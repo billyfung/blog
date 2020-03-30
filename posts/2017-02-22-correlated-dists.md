@@ -2,7 +2,7 @@
 title: Building Correlated Distributions
 subtitle: more Cholesky
 date: '2017-02-22'
-slug: correlated-distributions
+layout: layouts/post.njk
 ---
 
 # Simulations are key

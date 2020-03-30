@@ -2,7 +2,7 @@
 title: Learnings of the Week 
 subtitle: 3
 date: '2016-05-02'
-slug: learning-3
+layout: layouts/post.njk
 ---
 
 # End of April

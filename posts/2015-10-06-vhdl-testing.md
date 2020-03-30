@@ -2,7 +2,7 @@
 title: VHDL testbenches
 subtitle: Always be testing
 date: '2015-10-06'
-slug: vhdl-testing
+layout: layouts/post.njk
 ---
 
 # Testbenches

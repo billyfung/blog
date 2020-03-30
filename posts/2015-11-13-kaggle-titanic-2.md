@@ -2,7 +2,7 @@
 title: Kaggle Titanic survival classification
 subtitle: Who will survive?
 date: '2015-11-29'
-slug: kaggle-titanic-2
+layout: layouts/post.njk
 ---
 
 # Third Submission for Kaggle Titanic Competition

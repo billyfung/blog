@@ -2,7 +2,7 @@
 title: Python GIS first try
 subtitle: closest I'll get to being an astronaut
 date: '2017-08-02'
-slug: python-modis-gis
+layout: layouts/post.njk
 ---
 ## NASA MODIS data
 

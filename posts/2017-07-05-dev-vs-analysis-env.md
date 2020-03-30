@@ -2,7 +2,7 @@
 title: Development vs Analysis Environments
 subtitle: 
 date: '2017-07-05'
-slug: dev-vs-analysis-env
+layout: layouts/post.njk
 ---
 
 ## Docker, Vagrant, Chef, Puppet, Kubernetes… etc

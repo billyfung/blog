@@ -2,7 +2,7 @@
 title: Porting Windows to Linux
 subtitle: Time is fun
 date: '2017-08-21'
-slug: linux-windows-port
+layout: layouts/post.njk
 ---
 
 # MS-DOS to bash

@@ -2,7 +2,7 @@
 title: Python Robot web app 
 subtitle: Time is fun
 date: '2015-12-03'
-slug: python-robot
+layout: layouts/post.njk
 ---
 
 # Controlling robot arm via web interface
