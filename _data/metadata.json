@@ -1,13 +1,13 @@
 {
-  "title": "My Blog",
-  "url": "https://myurl.com/",
+  "title": "Billy Fung",
+  "url": "https://billyfung.com/",
   "description": "Random snippets of existence.",
   "feed": {
     "subtitle": "Writings and musings",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "https://myurl.com/feed/feed.xml",
-    "id": "https://myurl.com/"
+    "url": "https://billyfung.com/feed/feed.xml",
+    "id": "https://billyfung.com/"
   },
   "author": {
     "name": "Billy Fung",
