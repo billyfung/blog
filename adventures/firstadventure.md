@@ -1,5 +1,5 @@
 ---
-title: My first adventure!
+title: Skyline traverse
 description: much wow
 date: 2020-04-06
 tags:
@@ -7,5 +7,5 @@ tags:
 layout: layouts/adventure.njk
 ---
 
-# Wow this is my first adventure
-How exciting!
+## Wanaka and Cromwell
+Placeholder for now, need to get around to compiling everything.
