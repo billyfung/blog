@@ -8,6 +8,7 @@ layout: layouts/adventure.njk
 ---
 
 ## Wanaka 
+
 Starting from Glendhu bay, running along the Millenium Track, then up Roy's peak and across to Mount Alpha. Then a tussock descent to Sprotts Creek and the car park  on Cardona valley road.
 
 The bit from Glendhu bay is cruisy, about 11.5km before the start of climbing up Roy's. The endless switch back in the sun up Roy's means you should probably aim for an early start if you don't want to be suffering in the sun too much. Also keep drinking water and eating since it'll be at least an hour of uphill. 
@@ -47,3 +48,5 @@ There is either the option to turn around at the top of Little Criffel and head 
 
 The total for me ended up being 54.5km, 3000m elevation, 9:21 elapsed time.
 An amazing adventure out in Wanaka. (If alone, you could totally run back into Wanaka along the motorway)
+
+https://www.youtube.com/watch?v=f-RDuwPpuiY
